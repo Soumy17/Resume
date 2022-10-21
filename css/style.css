@@ -1,0 +1,576 @@
+@charset "ISO-8859-1";
+.navbar
+{
+	
+	margin-top:5px;
+	height:50px;
+	width:1500px;
+	background-color:#138808;
+	color:#fff;
+	margin-left:15px;
+	margin-top:-70px;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	border: 2px solid #ccc;
+	 position: fixed;
+}
+
+.bgcontainer
+{
+	margin-top:80px;
+	height:450px;
+	width:100%;
+	
+}
+.bgphoto
+{
+	height:450px;
+	width:100%;
+}
+ul {
+  list-style-type: none;
+  margin-left:700px;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: left;
+  padding-left:50px;
+
+  
+}
+
+li a {
+  
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+   text-decoration: none;
+   font-family: Algerian;
+}
+
+li a:hover {
+  background-color:#3DB30D;
+  color:#fff;
+  border-radius:10px;
+}
+
+.profile
+{
+     height : 140px;
+	width : 140px;
+	margin-left: 650px;
+	margin-top: -550px;
+	border-radius: 100px;
+	
+}
+.Social-Media
+{
+	margin-top:10px;
+    height : 50px;
+	width : 50px;
+	margin-left: 0px;
+	border-radius: 25px;
+	border: 2px solid #ccc;
+	
+}
+#Mail
+{
+	margin-left: 500px;
+	margin-top:-200px;
+}
+
+
+#Linkedin
+{
+	margin-left: 80px;
+	margin-top:-200px;
+}
+#Github
+{
+	margin-left: 80px;
+	margin-top:-200px;
+	
+}
+#Instagram
+{
+	margin-left: 80px;
+	margin-top:-200px;
+}
+.Basic-Info
+{
+	height:75px;
+	width:1100px;
+	margin-left:200px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+}
+
+.Scrolldown
+{
+	margin-left:50px;
+	margin-top:0px;
+}
+.Scrolldown2
+{
+	margin-left:1200px;
+}
+
+.About
+{
+	height:250px;
+	width:1100px;
+	margin-top:0px;
+	margin-left:200px;
+	background-color:#fff;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	
+}
+.Col1
+{
+	height:225px;
+	width:500px;
+	background-color: #fff;
+	margin-left:20px;
+	margin-top:10px;
+	color:#778899;
+	
+}
+#Subtopic
+{
+	color:white;
+	
+	
+	
+}
+.Col2
+{
+	height:225px;
+	width:500px;
+	background-color:#fff;
+	margin-left:575px;
+	margin-top:-225px;
+	
+}
+.Info-topic
+{
+	height:220px;
+	width:100px;
+	background-color:#fff;
+	color:#111;
+	font-family: Verdana, sans-serif;
+}
+.Info-topic-answer
+{
+	height:225px;
+	width:400px;
+	background-color:#fff;
+	margin-left:100px;
+	margin-top:-225px;
+	color:#778899;
+	
+	
+}
+.Professional-Skills
+{
+	height:75px;
+	width:1100px;
+	margin-left:200px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+	
+}
+.Skills
+{
+	height:400px;
+	width:1100px;
+	margin-top:0px;
+	margin-left:200px;
+	background-color:#fff;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	
+}
+.Skills-Col1
+{
+	height:225px;
+	width:500px;
+	background-color: #fff;
+	margin-left:20px;
+	margin-top:10px;
+	color:#111;
+	
+}
+
+.Skills-Col2
+{
+	height:225px;
+	width:500px;
+	background-color:#fff;
+	margin-left:575px;
+	margin-top:-225px;
+	
+}
+
+.Study
+{
+	height:75px;
+	width:1400px;
+	margin-left:50px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+}
+
+.Education
+{
+	
+	height:250px;
+	width:400px;
+	margin-top:25px;
+	margin-left:70px;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+}
+#BE
+{
+	margin-left:50px;
+	margin-top:0px;
+	padding-left:10px;
+	padding-top:10px;
+}
+
+#HSC
+{
+	margin-left:560px;
+	margin-top:-250px;
+	padding-left:10px;
+	padding-top:10px;
+}
+#SSC
+{
+	margin-left:1050px;
+	margin-top:-250px;
+	padding-left:10px;
+	padding-top:10px;
+
+	
+}
+.Internship
+{
+	height:75px;
+	width:1100px;
+	margin-left:200px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+}
+.InternshipContainer
+{
+	height:250px;
+	width:1100px;
+	margin-top:0px;
+	margin-left:200px;
+	background-color:#fff;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	
+}
+.InternshipCol1
+{
+	height:250px;
+	width:250px;
+	margin-left:-1px;
+	margin-top:-2px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	background-color: #138808;
+	color: #fff;
+}
+.InternshipCol2
+{
+	height:250px;
+	width:850px;
+	margin-left:249px;
+	margin-top:-250px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	
+}
+
+.Projects
+{
+	height:75px;
+	width:1380px;
+	margin-left:70px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+}
+.ProjectContainer
+{
+	
+	height:250px;
+	width:400px;
+	margin-top:0px;
+	margin-left:70px;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+#E-Learning-Site
+{
+	margin-left:70px;
+	
+}
+
+#Online-Banking-System
+{
+	margin-left:560px;
+	margin-top:-250px;
+}
+#Agribot
+{
+	margin-left:1050px;
+	margin-top:-250px;
+
+	
+}
+#Project4
+{
+	margin-left:70px;
+	margin-top:25px
+}
+#Project5
+{
+	margin-left:560px;
+	margin-top:-250px;
+	
+}
+#Project6
+{
+	margin-left:1050px;
+	margin-top:-250px;
+
+	
+}
+.Achievements
+{
+	height:75px;
+	width:675px;
+	margin-left:50px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+	
+}
+.AchievementsContainer
+{
+	height:250px;
+	width:675px;
+	margin-top:0px;
+	margin-left:50px;
+	background-color:#fff;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	
+	
+}
+.Activities
+{
+	height:75px;
+	width:675px;
+	margin-left:785px;
+	margin-top:-325px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;
+	
+}
+
+.ActivitiesContainer
+{
+	height:250px;
+	width:675px;
+	margin-top:0px;
+	margin-left:785px;
+	background-color:#fff;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	
+	
+}
+.Carousel
+{
+    height:75px;
+	width:900px;
+	margin-left:300px;
+	margin-top:100px;
+    background-color: #138808;
+    text-align: center;
+    padding-top:20px;
+    color:#fff;	
+}
+.CarouselContainer
+{
+	height:400px;
+	width:900px;
+	margin-top:0px;
+	margin-left:300px;
+	background-color:#fff;
+	border: 2px solid #ccc;
+	box-shadow: 5px 5px 5px 5px #f1f1ea;
+		
+}
+
+.Backtotop
+{
+	height:20px;
+	width:100px;
+	margin-left:1400px;
+	
+}
+
+.Backtotop2
+{
+	height:20px;
+	width:100px;
+	margin-left:75px;
+	margin-top:-25px;
+	
+}
+
+.ContactContainer
+{
+	height:150px;
+	width:100%;
+	margin-top:100px;
+	margin-left:0px;
+	border: 2px solid #ccc;
+	font-style:Times New Roman;
+	background-color: #138808;
+	
+	
+	
+}
+
+
+.gmailfooter
+{
+	height:150px;
+	width:220px;
+	margin-left:40px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+	
+	
+}
+.linkedinfooter
+{
+	
+	height:150px;
+	width:200px;
+	margin-left:300px;
+	margin-top:-150px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+.githubfooter
+{
+	height:150px;
+	width:200px;
+	margin-left:540px;
+	margin-top:-150px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+.facebookfooter
+{
+	height:150px;
+	width:200px;
+	margin-left:780px;
+	margin-top:-150px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+	
+}
+.instagramfooter
+{
+	height:150px;
+	width:200px;
+	margin-left:1020px;
+	margin-top:-150px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+.addressfooter
+{
+	height:150px;
+	width:200px;
+	margin-left:1260px;
+	margin-top:-150px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+.foot
+{
+	height:50px;
+	width:100%;
+	background-color: #111;
+}
+
+
+
+
+
+
+
+
+
+
